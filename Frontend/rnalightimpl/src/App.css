@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+}
+
+.button-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.upload-button {
+  margin-right: 10px;
+}
+
+.file-input {
+  margin-bottom: 10px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+
+.predictions-container {
+  margin-top: 20px;
+}
+
+.predictions-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table-header-cell {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.table-cell {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.upload-text {
+  font-size: 14px;
+  color: #666;
+  margin-top: 8px;
+}
